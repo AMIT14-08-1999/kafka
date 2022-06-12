@@ -24,6 +24,8 @@ Hadoop and real-time event processing systems. The key was the "real-time" proce
 # what command used for running KAFKA in windows ?
 
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 
 
